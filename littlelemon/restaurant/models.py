@@ -26,11 +26,6 @@ class Booking(models.Model):
         ]
     )
     bookingDate = models.DateField()
-    menu = models.ForeignKey(
-        Menu,
-        on_delete=models.CASCADE,
-        null=True
-    )
 
     def __str__(self):
         return self.name
