@@ -1,6 +1,6 @@
-auth/
-api-token-auth/
-restaurant/
-restaurant/booking/
-api/menu-items/
+auth/ <br />
+api-token-auth/ <br />
+restaurant/ <br />
+restaurant/booking/ <br />
+api/menu-items/ <br />
 api/menu-items/<int:pk>
