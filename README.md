@@ -54,6 +54,6 @@ restaurant/api-token-auth/
 ```bash
 restaurant/
 restaurant/booking/tables
-api/menu-items/
-api/menu-items/<int:pk>
+restaurant/api/menu-items/
+restaurant/api/menu-items/<int:pk>
 ```
