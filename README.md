@@ -31,6 +31,13 @@ pipenv install djangorestframework
 pipenv install djoser
 ```
 
+## Connect to MySQL
+```bash
+sudo mysql -u root -p OR mysql -u root -p
+CREATE DATABASE littlelemon;
+exit
+```
+
 # Run server
 ```bash
 python3 manage.py makemigrations
