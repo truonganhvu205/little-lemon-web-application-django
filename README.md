@@ -1,6 +1,9 @@
-auth/ <br />
-api-token-auth/ <br />
-restaurant/ <br />
-restaurant/booking/ <br />
-api/menu-items/ <br />
+# API endpoints
+```bash
+auth/
+api-token-auth/
+restaurant/
+restaurant/booking/tables
+api/menu-items/
 api/menu-items/<int:pk>
+```
