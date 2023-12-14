@@ -1,8 +1,8 @@
 # Clone project
 ```bash
-mkdir littlelemonAPI
+mkdir little-lemon-web-application
 
-cd littlelemonAPI
+cd little-lemon-web-application
 
 git init
 
