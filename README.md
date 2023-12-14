@@ -48,7 +48,7 @@ python3 manage.py runserver
 # API endpoints
 ```bash
 auth/
-api-token-auth/
+restaurant/api-token-auth/
 ```
 
 ```bash
