@@ -1,5 +1,7 @@
-adminlittlelemon
-adminll123$%^
+Admin
+- adminlittlelemon
+- adminll123$%^
 
-johndoelittlelemon
-johndoell123$%^
+Customer
+- johndoelittlelemon
+- johndoell123$%^
