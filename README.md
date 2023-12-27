@@ -16,13 +16,9 @@ pipenv --python 3.10
 pipenv shell
 ```
 
-## Install Django
+## Install Django & Frameworks
 ```bash
 pipenv install django
-```
-
-## Install Framework
-```bash
 pipenv install mysqlclient
 pipenv install djangorestframework
 pipenv install djoser
