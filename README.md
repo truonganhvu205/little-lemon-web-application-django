@@ -44,13 +44,13 @@ python3 manage.py runserver
 
 # API endpoints
 ```bash
-auth/
-restaurant/api-token-auth/
+/auth/
+/restaurant/api-token-auth/
 ```
 
 ```bash
-restaurant/
-restaurant/booking/tables
-restaurant/api/menu-items/
-restaurant/api/menu-items/<int:pk>
+/restaurant/
+/restaurant/booking/tables
+/restaurant/api/menu-items/
+/restaurant/api/menu-items/<int:pk>
 ```
