@@ -1,7 +1,6 @@
 from django.shortcuts import render
 from rest_framework import generics, viewsets
 from rest_framework.permissions import IsAuthenticated
-
 from .models import MenuItems, Booking
 from .serializers import MenuItemsSerializer, BookingSerializer
 

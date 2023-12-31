@@ -1,8 +1,8 @@
 # Clone project
 ```bash
 git init
-git clone https://github.com/truonganhvu205/little-lemon-web-application.git
-cd little-lemon-web-application
+git clone https://github.com/truonganhvu205/little-lemon-web-application-django.git
+cd little-lemon-web-application-django
 ```
 
 ## Install pipenv
@@ -16,9 +16,12 @@ pipenv --python 3.10
 pipenv shell
 ```
 
-## Install Django & Frameworks
+## Install Django & frameworks
 ```bash
+# Django
 pipenv install django
+
+# Frameworks
 pipenv install mysqlclient
 pipenv install djangorestframework
 pipenv install djoser
@@ -28,6 +31,7 @@ pipenv install djoser
 ```bash
 mysql -u root -p
 create database littlelemon;
+
 exit
 ```
 
